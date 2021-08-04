@@ -1,2 +1,2 @@
 # app-peluqueria
-https://app-peluqueria-juan.netlify.app/
+preview of the page on https://app-peluqueria-juan.netlify.app/
